@@ -1,0 +1,29 @@
+.custom-menu .ant-menu-item,
+.custom-menu .ant-menu-submenu-title,
+.custom-menu .ant-menu-item-group-title {
+    color: #ffffff;
+}
+
+.ant-menu-item-selected {
+    background-color: #163938 !important;
+}
+
+.button-loc {
+    margin:  40px;
+    background-color: #163938;
+}
+.button-loc:hover {
+    background-color: #2b706e !important;
+}
+.progress-tracker {
+    margin: 20px;
+    padding: 5px;
+}
+.tip-button {
+    margin: 25px;
+    padding: 0px 15px 0px 15px;
+    background-color: #163938;
+}
+.tip-button:hover {
+    background-color: #2b706e !important;
+}

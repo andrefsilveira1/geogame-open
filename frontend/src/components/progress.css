@@ -1,0 +1,23 @@
+
+.ant-steps-item-finish .ant-steps-item-icon svg {
+    fill: #2b706e !important;
+}
+
+.ant-steps-item-finish .ant-steps-item-title:after {
+    background-color: #2b706e !important;
+}
+
+.ant-steps-item-process .ant-steps-item-icon {
+    background: #2b706e !important;
+    border: #00fff7;
+}
+
+.rollback-button {
+    margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+    .tip-button {
+      width: 100%;
+    }
+  }
