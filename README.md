@@ -19,7 +19,7 @@ You can access the go-haversine package here: [go-haversine](https://github.com/
 
 # How I made it:
 
-I used Golang, Fiber (Go framework), React, Ant-design, Terraform, Docker, Azure SQL Database, Azure Server and Azure Container Apps. In this repository, I hide infraestructure details for security. 
+I used Golang, Fiber (Go framework), React, Ant-design, Terraform, Docker, Azure SQL Database, Azure Server and Azure Container Apps. In this repository, I hide infrastructure details for security. 
 
 # How execute:
 
