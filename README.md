@@ -35,3 +35,11 @@ Notice that the database connection is based at Azure SQL Database. If you do no
 Contribuitions: 
 
 I made this alone, so, probably has some errors here. If you find any issues, please, do not hesitate to reach me out :)
+
+# TODO:
+
+- [ ] Upgrade queries from Azure SQL Database
+- [ ] Decrease map width
+- [ ] Allows private game
+- [ ] Push new countries to play
+- [ ] Allows user register score without end it 
